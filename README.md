@@ -24,3 +24,4 @@ Access the dashboard at: `http://localhost:8501`
 
 ## 🔄 CI/CD Pipeline
 Included in `.github/workflows/mlops_pipeline.yml` is an automated GitHub Action that triggers every Sunday at midnight. It spins up an Ubuntu runner, updates dependencies, extracts the latest week of NBA statistics, retrains the XGBoost model, and commits the fresh weights back to the repository.
+<img width="1815" height="811" alt="{3DDD9461-4967-4B7E-9307-97E8C98CB408}" src="https://github.com/user-attachments/assets/7b3a9ef8-9455-4124-9c37-b35336f9f988" />
