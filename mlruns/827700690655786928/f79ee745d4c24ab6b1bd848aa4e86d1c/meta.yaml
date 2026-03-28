@@ -1,0 +1,14 @@
+artifact_uri: file:///home/alex/nba-oracle-mlops/mlruns/827700690655786928/f79ee745d4c24ab6b1bd848aa4e86d1c/artifacts
+end_time: 1774393511179
+entry_point_name: ''
+experiment_id: '827700690655786928'
+lifecycle_stage: active
+run_id: f79ee745d4c24ab6b1bd848aa4e86d1c
+run_name: DeepANN_Deep_Light_Drop0.4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774393510444
+status: 3
+tags: []
+user_id: alex

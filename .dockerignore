@@ -1,0 +1,14 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Cache and compiled files
+__pycache__/
+*.pyc
+
+# Local Data checkoints (we don't need raw sequence files in production)
+data_pipeline/checkpoints/
+
+# Git
+.git/

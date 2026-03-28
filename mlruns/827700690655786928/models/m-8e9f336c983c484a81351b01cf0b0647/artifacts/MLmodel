@@ -1,0 +1,23 @@
+artifact_path: file:///home/alex/nba-oracle-mlops/mlruns/827700690655786928/models/m-8e9f336c983c484a81351b01cf0b0647/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.9.25
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.8.0+cpu
+mlflow_version: 3.1.4
+model_id: m-8e9f336c983c484a81351b01cf0b0647
+model_size_bytes: 17113
+model_uuid: m-8e9f336c983c484a81351b01cf0b0647
+prompts: null
+run_id: 6852b7c38d0146368e53f5fbffc2d907
+utc_time_created: '2026-03-24 22:59:21.996626'

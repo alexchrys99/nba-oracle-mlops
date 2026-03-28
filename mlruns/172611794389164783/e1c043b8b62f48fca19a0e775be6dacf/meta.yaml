@@ -1,0 +1,14 @@
+artifact_uri: file:///home/alex/nba-oracle-mlops/mlruns/172611794389164783/e1c043b8b62f48fca19a0e775be6dacf/artifacts
+end_time: 1774644218838
+entry_point_name: ''
+experiment_id: '172611794389164783'
+lifecycle_stage: active
+run_id: e1c043b8b62f48fca19a0e775be6dacf
+run_name: Transformer_V1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774642839999
+status: 3
+tags: []
+user_id: alex

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/alex/nba-oracle-mlops/mlruns/827700690655786928/ac91dcae934f48158257223df84aedf9/artifacts
+end_time: 1774393707509
+entry_point_name: ''
+experiment_id: '827700690655786928'
+lifecycle_stage: active
+run_id: ac91dcae934f48158257223df84aedf9
+run_name: XGB_d3_lr0.05_n100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774393707426
+status: 3
+tags: []
+user_id: alex

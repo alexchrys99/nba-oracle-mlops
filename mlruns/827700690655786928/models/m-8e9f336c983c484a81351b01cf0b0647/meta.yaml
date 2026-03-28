@@ -1,0 +1,10 @@
+artifact_location: file:///home/alex/nba-oracle-mlops/mlruns/827700690655786928/models/m-8e9f336c983c484a81351b01cf0b0647/artifacts
+creation_timestamp: 1774393161981
+experiment_id: '827700690655786928'
+last_updated_timestamp: 1774393170117
+model_id: m-8e9f336c983c484a81351b01cf0b0647
+model_type: null
+name: model
+source_run_id: 6852b7c38d0146368e53f5fbffc2d907
+status: 2
+status_message: null

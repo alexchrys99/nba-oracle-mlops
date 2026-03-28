@@ -1,0 +1,6 @@
+artifact_location: file:///home/alex/nba-oracle-mlops/mlruns/827700690655786928
+creation_time: 1774393161466
+experiment_id: '827700690655786928'
+last_update_time: 1774393161466
+lifecycle_stage: active
+name: NBA_Clutch_Impact_Predictor

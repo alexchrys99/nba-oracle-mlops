@@ -1,0 +1,13 @@
+# Environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Heavy Data (Don't upload to GitHub)
+data_pipeline/*.parquet
+data_pipeline/*.csv
+data_pipeline/*.pth
+
+# Docker logs
+*.log
